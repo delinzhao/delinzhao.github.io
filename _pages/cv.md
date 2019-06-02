@@ -44,6 +44,21 @@ Project experience
 > Project Leader
   * Used YOLOv2 for recognizing some specific human actions in automated teller area
   * Developed APP for remote monitoring
+
+Honors and awards
+======
+| Name | Time |
+| ------ | ------ |
+| Northwestern Polytechnical University “Outstanding Student”, First Class Scholarship | 2018.11 |
+| Silver medal in South Pacific Central Division of the International Collegiate Programming Contest (ICPC) | 2018.10 |
+| First price in NPU Mathematical Contest in Modeling | 2018.05 | 
+| Honorable Mention Delegation in National Model United Nations, New York | 2018.03 |
+| Second prize in Shaanxi division in China Undergraduate Mathematical Contest in Modeling | 2017.09 |
+| 1st Place in SimuroSot Middle League at 22st FIRA RoboWorld Cup 2017, Taiwan, China | 2017.08 |
+| 1st Place in SimuroSot Middle League at China Robot Competition 2017 | 2017.08 |
+| First price in NPU C-Language Programming Contest | 2017.05 |
+| 1st Place in SimuroSot Middle League at 21st FIRA RoboWorld Cup 2016, Beijing, China | 2016.12 |
+| First price in National Olympiad in Informatics in Provinces, China | 2015.11 |
 <!-- Skills
 ======
 * Skill 1
