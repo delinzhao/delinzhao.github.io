@@ -29,10 +29,16 @@ Internship experience
 
 Project experience
 ======
-* 2016.08 – 2017.10: Football SimuRobot 
-  * Used C++ to design strategies for football Simu robot competition
-  * Designed new attack strategies in the front court. Improved the rate of goal by 5%
-  * Achieved two international championships and one national championship during the year
+* 2019.04 - 2019.06: Object level Optical Flow Computation
+  * This is a group research project for ENGN4528 Computer Vision - Sem 1 2019
+  * Used Mask-RCNN to detect vehicles and pedestrians, and converted the detected images for the computation of dense optical flow.
+  * Used Farnebcak algorithm to compute dense optical flow. I used brightness constancy constraint to improve the robustness.
+  * Improved accuracy by 12.53% compared to classic Farnebcak algorithm on KITTI dataset.
+
+* 2018.05 – 2019.04: Intelligent Monitoring System in Automated Teller Area 
+  * Project Leader
+  * Used YOLOv2 for recognizing some specific human actions in automated teller area
+  * Developed APP for remote monitoring
 
 * 2017.07 – 2018.12: An Intelligent dialogue robot based on Tencent’s Chatting Software (Personal Project)
   * Utilized Python to implement functions of the qqbot to collect and monitor the chat messages, and designed the Q&A system based on users’ queries
@@ -45,10 +51,10 @@ Project experience
   * Processed information by classifying and analyzing and presented with website and APP
   * Collected more than 10,000 articles and 9,235 pictures from 70 publishers
 
-* 2018.05 – 2019.04: Intelligent Monitoring System in Automated Teller Area 
-  * Project Leader
-  * Used YOLOv2 for recognizing some specific human actions in automated teller area
-  * Developed APP for remote monitoring
+* 2016.08 – 2017.10: Football SimuRobot 
+  * Used C++ to design strategies for football Simu robot competition
+  * Designed new attack strategies in the front court. Improved the rate of goal by 5%
+  * Achieved two international championships and one national championship during the year
 
 <br>
 
