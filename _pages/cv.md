@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title:
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,7 +8,6 @@ redirect_from:
 ---
 
 Download my resume here: [English version](/files/resume_en.pdf) or [Chinese version](/files/resume_cn.pdf)
-
 <br>
 
 Education
@@ -25,6 +24,7 @@ Internship experience
   * Used C++ and QT to develop medical imaging software for finding plaques in blood vessel.
   * I was in charge of some functional modules including transferring data and showing the report.
   * During the internship, I have also learnt some basic skills of computer vision, including image segmentation and image registration.
+
 <br>
 
 Project experience
@@ -49,6 +49,8 @@ Project experience
   * Project Leader
   * Used YOLOv2 for recognizing some specific human actions in automated teller area
   * Developed APP for remote monitoring
+
+<br>
 
 Honors and awards
 ======
