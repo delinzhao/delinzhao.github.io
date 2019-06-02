@@ -19,5 +19,5 @@ and my major in NPU is Software Engineering.
 <br>
 * To learn more about me, you can have a view of my CV page [here](/cv), or download my resume here: [English version](/files/resume_en.pdf) or [Chinese version](/files/resume_cn.pdf).
 <br>
-* I also like writing blogs to summarize the knowledge or record my interesting experiments. I like sharing and discussing things in the field of Computer Science. Visit my Chinese blog [here](https://blog.djinguo.com)!
+* I also like writing blogs to summarize the knowledge or record my interesting experiments. I like sharing and discussing things with others. Visit my Chinese blog [here](https://blog.djinguo.com)!
 

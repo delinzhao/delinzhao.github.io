@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-Download my resume here: [English version](/files/resume_en.pdf) or [Chinese version](/files/resume_cn.pdf)
+
 <br>
 
 Education
@@ -67,6 +67,10 @@ Honors and awards
 | First price in NPU C-Language Programming Contest | 2017.05 |
 | 1st Place in SimuroSot Middle League at 21st FIRA RoboWorld Cup 2016, Beijing, China | 2016.12 |
 | First price in National Olympiad in Informatics in Provinces, China | 2015.11 |
+
+<br>
+
+Download my resume here: [English version](/files/resume_en.pdf) or [Chinese version](/files/resume_cn.pdf)
 
 <!-- Skills
 ======
