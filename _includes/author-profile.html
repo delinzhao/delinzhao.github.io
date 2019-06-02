@@ -34,7 +34,6 @@
       {% if author.email %}
         <li><a href="mailto:{{ author.email }}"><i class="fas fa-envelope" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>
       {% endif %}
-      <li><a href="https://blog.djinguo.com"><i class="fab fa-blog" aria-hidden="true"></i> Blog</a></li>
       <li><a href="https://www.zhihu.com/people/dong-jin-guo-26/activities"><i class="fab fa-zhihu" aria-hidden="true"></i> Zhihu</a></li>
       {% if author.keybase %}
         <li><a href="https://keybase.io/{{ author.keybase }}"><i class="fas fa-key" aria-hidden="true"></i> Keybase</a></li>
@@ -117,6 +116,7 @@
       {% if author.impactstory %}
         <li><a href="{{ author.impactstory }}"><i class="ai ai-impactstory ai-fw"></i> Impactstory</a></li>
       {% endif %}
+      <li><a href="https://blog.djinguo.com"><i class="fab fa-blog" aria-hidden="true"></i> Blog</a></li>
       {% if author.wikipedia %}
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-wikipedia-w" aria-hidden="true"></i> Wikipedia</a></li>
 {% endif %}
