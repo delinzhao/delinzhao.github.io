@@ -17,5 +17,5 @@ and my major in NPU is Software Engineering.
 <br>
 * My research interest is in Computer Vision (CV) and Natural Language Processing (NLP). 
 <br>
-* To learn more about me, you can download my resume here: [English version](djinguo.com/files/resume_en.pdf) or [Chinese version](djinguo.com/files/resume_cn.pdf), or visit my Chinese [blog](https://blog.djinguo.com).
+* To learn more about me, you can download my resume here: [English version](/files/resume_en.pdf) or [Chinese version](/files/resume_cn.pdf), or visit my Chinese [blog](https://blog.djinguo.com/about).
 
