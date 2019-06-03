@@ -20,7 +20,7 @@ Education
 Internship experience
 ======
 * 2018.12-2019.02: Tenoke Medical Imaging, Nanjing, China
-  * Intern in Development Department, C++ programmer
+  Intern in Development Department, C++ programmer
   * Used C++ and QT to develop medical imaging software for finding plaques in blood vessel.
   * I was in charge of some functional modules including transferring data and showing the report.
   * During the internship, I have also learnt some basic skills of computer vision, including image segmentation and image registration.
@@ -30,13 +30,13 @@ Internship experience
 Project experience
 ======
 * 2019.04 - 2019.06: Object level Optical Flow Computation
-  * This is a group research project for ENGN4528 Computer Vision - Sem 1 2019
+  Group research project for ENGN4528 Computer Vision - Sem 1 2019
   * Used Mask-RCNN to detect vehicles and pedestrians, and converted the detected images for the computation of dense optical flow.
   * Used Farnebcak algorithm to compute dense optical flow. I used brightness constancy constraint to improve the robustness.
   * Improved accuracy by 12.53% compared to classic Farnebcak algorithm on KITTI dataset.
 
 * 2018.05 – 2019.04: Intelligent Monitoring System in Automated Teller Area 
-  * Project Leader
+  Project Leader
   * Used YOLOv2 for recognizing some specific human actions in automated teller area
   * Developed APP for remote monitoring
 
@@ -46,7 +46,7 @@ Project experience
   * Contributed for the GitHub repository ‘qqbot’ with more than 3,400 stars by adding plug-in component
 
 * 2017.04 – 2018.04: University Information Integration System 
-  * Excellent Conclusion in the National University Student Innovation and Entrepreneurship Program
+  Excellent Conclusion in the National University Student Innovation and Entrepreneurship Program
   * Used web crawler to collect university information from different sources with Python
   * Processed information by classifying and analyzing and presented with website and APP
   * Collected more than 10,000 articles and 9,235 pictures from 70 publishers

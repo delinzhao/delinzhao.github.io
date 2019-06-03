@@ -13,7 +13,7 @@ redirect_from:
 * I am a 2+2 student of Australian National University (ANU) and Northwestern Polytechnical University (NPU). My program in ANU is Bachelor of Advanced Computing (Honours)
 and my major in NPU is Software Engineering. 
 <br>
-* I started learning computer programming when I was a junior middle school student. I like programming! I am familiar with C++, Python and Pascal. I have used them to take many programming contests. I can also use Matlab, Java and R by doing some course works.
+* I started learning computer programming when I was a junior middle school student. I like programming! I am proficient with C++, Python and Pascal. I have used them to take many programming contests. I can also use Matlab, Java and R by doing some course works.
 <br>
 * My research interest is in Computer Vision (CV) and Natural Language Processing (NLP). 
 <br>
