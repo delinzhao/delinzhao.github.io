@@ -35,7 +35,7 @@ Project experience
   * Used Farnebcak algorithm to compute dense optical flow. I used brightness constancy constraint to improve the robustness.
   * Improved accuracy by 12.53% compared to classic Farnebcak algorithm on KITTI dataset.
 
-* 2018.05 – 2019.04: Intelligent Monitoring System in Automated Teller Area 
+* 2018.05 – 2019.07: Intelligent Monitoring System in Automated Teller Area 
   > Project Leader, finalist of China Software Cup 2019
   * Used YOLOv2 and Mask-RCNN for recognizing some specific human actions and the number of people in automated teller area
   * Developed Browser/Server system for remote monitoring and controlling
