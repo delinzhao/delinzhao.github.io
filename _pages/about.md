@@ -15,7 +15,7 @@ and my major in NPU is Software Engineering.
 <br>
 * I started learning computer programming when I was a junior middle school student. I like programming! I am proficient with C++, Python and Pascal. I have used them to take many programming contests. I can also use Matlab, Java and R by doing some course works.
 <br>
-* My research interest is in Computer Vision (CV) and Natural Language Processing (NLP). 
+* My research interest is in Natural Language Processing (NLP) and Computer Vision (CV). 
 <br>
 * To learn more about me, you can have a view of my CV page [here](/cv), or download my resume here: [English version](/files/resume_en.pdf) or [Chinese version](/files/resume_cn.pdf).
 <br>

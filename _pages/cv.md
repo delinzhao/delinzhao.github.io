@@ -36,9 +36,15 @@ Project experience
   * Improved accuracy by 12.53% compared to classic Farnebcak algorithm on KITTI dataset.
 
 * 2018.05 – 2019.04: Intelligent Monitoring System in Automated Teller Area 
-  > Project Leader
-  * Used YOLOv2 for recognizing some specific human actions in automated teller area
-  * Developed APP for remote monitoring
+  > Project Leader, finalist of China Software Cup 2019
+  * Used YOLOv2 and Mask-RCNN for recognizing some specific human actions and the number of people in automated teller area
+  * Developed Browser/Server system for remote monitoring and controlling
+
+* Analysis of the author of The Dream of Red Mansion 2018.04 – 2018.05
+  > First price paper in NPU Mathematical Contest in Modeling
+  * Analyzed the author of last 40 chapters of Chinese masterwork The Dream of Red Mansion
+  * Used ‘jieba’ Chinese text segmentation to collect information in the book, including names, frequently used words and so on
+  * Applied word frequency analysis, cluster analysis and some basic idea of linguistics to get our conclusion
 
 * 2017.07 – 2018.12: An Intelligent dialogue robot based on Tencent’s Chatting Software 
   > Personal Project
