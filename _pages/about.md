@@ -11,7 +11,7 @@ redirect_from:
 * Hello, I’m Jinguo!
 <br>
 * I am a 2+2 student of Australian National University (ANU) and Northwestern Polytechnical University (NPU). My program in ANU is Bachelor of Advanced Computing (Honours)
-and my major in NPU is Software Engineering. Currently, I am doing my honours project supervised by (Dr Liang Zheng)[http://www.liangzheng.com.cn/] in ANU.
+and my major in NPU is Software Engineering. Currently, I am doing my honours project supervised by [Dr Liang Zheng](http://www.liangzheng.com.cn/) in ANU.
 <br>
 * I started learning computer programming when I was a junior middle school student. I like programming! I am proficient with C++, Python and Pascal. I have used them to take many programming contests. I can also use Matlab, Java and R by doing some course works.
 <br>
