@@ -65,6 +65,22 @@ Project experience
 
 <br>
 
+Skills
+======
+* Program languages: 
+  * Proficient: C/C++, Python, Pascal
+  * Competent: Matlab, Java, R
+* Web development
+  * HTML, Javascript
+  * Django
+  * WordPress
+  * Apache, Nginx
+* LaTeX, MarkDown
+* Git, SVN
+* Photoshop, Adobe Premiere
+
+<br>
+
 Honors and awards
 ======
 
