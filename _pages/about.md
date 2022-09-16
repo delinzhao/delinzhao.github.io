@@ -8,19 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-* Hello, I’m Jinguo!
+* Hello, I’m Zhao Delin!
 <br>
-* I am a MPhil student at the Chinese University of Hong Kong (CUHK), Shenzhen, majoring in Computer and Information Engineering. Currently, I am doing research about 3D reconstruction supervised by [Prof. Xiaoguang Han](https://sse.cuhk.edu.cn/en/faculty/hanxiaoguang) in the [GAP Lab](https://mypage.cuhk.edu.cn/academics/hanxiaoguang/). I am also looking for SDE intern opportunities in Çhina.
+* I am a graduate student at the Xi'an Jiaotong University, Xi'an, majoring in Electrical Engineering. Currently, I am doing research about the on-board charger supervised by [Prof. Yue Wang](https://gr.xjtu.edu.cn/zh/web/yuewang/1) in the [SKLEI Lab](http://sklei.xjtu.edu.cn/en/).
+[comment]: <> I am also looking for SDE intern opportunities in Çhina.
+[comment]: <>  <br>
+[comment]: <>  * I was a CS master student at the University of Southern California (USC). Sadly, I [comment]: <>  didn't obtain my degree because of [P.P. 10043](https://www.10043.org/).
 <br>
-* I was a CS master student at the University of Southern California (USC). Sadly, I didn't obtain my degree because of [P.P. 10043](https://www.10043.org/).
+* Before that, I was a undergraduate of Jilin University (JLU). I have been awarded the degree of B.E. of Electrical Engineering and its Automation with First Class Honours from JLU and the second degree of B.A. of English Literature from JLU in June 2020. 
 <br>
-* Before that, I was a 2+2 student of Australian National University (ANU) and Northwestern Polytechnical University (NPU). I have been awarded the degree of Bachelor of Advanced Computing with First Class Honours from ANU and the degree of Bachelor of Engineering in Software Engineering from NPU in July 2020. My honours project is Multi-view Detection for Densely Occluded Pedestrian supervised by [Dr Liang Zheng](http://www.liangzheng.com.cn/) in ANU.
+* I became interested in electronics when I was a junior middle school student. I like contriving ideas and accomplish them! I am proficient with designing experiments. I can also use Matlab, Altium Designer, Code Composer Studio (CCS), Quartus II, Keil and other science softwares.
 <br>
-* I started learning computer programming when I was a junior middle school student. I like programming! I am proficient with C++, Python and Pascal. I have used them to take many programming contests. I can also use Matlab, Java and R by doing some course works.
-<br>
-* My research interest is in Software Engineering (SE) and Computer Vision (CV). 
+* My research interest is in modeling and control of Wireless Power Transfer(WPT) and On-board Charger(OBC). 
 <br>
 * To learn more about me, you can have a view of my CV page [here](/cv), or download my resume here: [English version](/files/resume_en.pdf) or [Chinese version](/files/resume_cn.pdf).
 <br>
-* I like writing blogs to summarize the knowledge or record my interesting experiments. I like sharing and discussing things with others. Visit my Chinese blog [here](https://blog.djinguo.com)!
+[comment]: <>  * I like writing blogs to summarize the knowledge or record my interesting experiments. I [comment]: <> like sharing and discussing things with others. Visit my Chinese blog [here](https://blog.[comment]: <> djinguo.com)!
 
