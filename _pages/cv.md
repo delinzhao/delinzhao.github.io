@@ -12,71 +12,44 @@ redirect_from:
 
 Education
 ======
-* Bachelor of Advanced Computing (Honours), Australian National University, 2018-2020
-* Bachelor of Engineering majoring in Software Engineering, Northwestern Polytechnical University, 2016-2018
-
-<br>
-
-Internship experience
-======
-* 2018.12-2019.02: Tenoke Medical Imaging, Nanjing, China
-  > Intern in Development Department, C++ programmer
-  * Used C++ and QT to develop medical imaging software for finding plaques in blood vessel.
-  * I was in charge of some functional modules including transferring data and showing the report.
-  * During the internship, I have also learnt some basic skills of computer vision, including image segmentation and image registration.
+* M.E. of Electrical Engineering, Xi'an Jiaotong University,  Sept. 2020 - Present
+* B.E. of Electrical Engineering and its Automation, Jilin University,  Sept. 2016 - June 2020
+* B.A. of English Literature (double bachelor’s degree), Jilin University,  Sept. 2018 - June 2020
 
 <br>
 
 Project experience
 ======
-* 2019.04 - 2019.06: Object level Optical Flow Computation
+* Nov. 2021 - Present: Development of 22kW 800V Bidirectional On-board Charger
   > Group research project for ENGN4528 Computer Vision - Sem 1 2019
-  * Used Mask-RCNN to detect vehicles and pedestrians, and converted the detected images for the computation of dense optical flow.
-  * Used Farnebcak algorithm to compute dense optical flow. I used brightness constancy constraint to improve the robustness.
-  * Improved accuracy by 12.53% compared to classic Farnebcak algorithm on KITTI dataset.
+  *  The on-board charger (OBC) is compatible with 6.6kW for single-phase and 22kW for three-phase,requiring bidirectional power flow to meet the needs of different scenarios.
+  * In previous work, the advantages and disadvantages of different topologies were investigated and analyzed. Among them, CLLLC resonant converter is chosen as the DC-DC stage topology.
+  * The key point is to achieve wide voltage gain, and to reduce the DC bus capacitance in consideration of improving the overall power density and efficiency of OBC by means of active power decoupling, sinusoidal charging, etc.
 
-* 2018.05 – 2019.07: Intelligent Monitoring System in Automated Teller Area 
-  > Project Leader, finalist of China Software Cup 2019
-  * Used YOLOv2 and Mask-RCNN for recognizing some specific human actions and the number of people in automated teller area
-  * Developed Browser/Server system for remote monitoring and controlling
+* Sep. 2020 - Nov. 2021: Modeling and Stability Analysis of Wireless Power Transfer (WPT) System
+  > Project
+  * Modeling: In previous work, various models of LCC-S type wireless power transfer system have been established, including GSSA, EDF, discrete-time modeling, and harmonic state space (HSS).
+  * Stability analysis: In the discrete iterative model, the eigenroots of the Jacobian matrix at the fixed point are used to analyze the system stability. Converting the GSSA and EDF closed-loop transfer functions to the z domain, we can explore the influence of different controller parameters (Kp, Ki), delay parameters (hardware delay, controller delay), and hardware parameters (mutual inductance, load) on system stability in comparison with discrete iterative model. In HSS model, the system stability can be analyzed by eigenvalues. In addition, the oscillation frequency can be predicted when the WPT system is unstable.
+  * Periodic energy control (PEC): The periodic energy control takes the energy input to the resonant network in each period as the control target, which has the advantages of fast dynamic response and suppression of system overshoot.
 
-* 2018.04 – 2018.05: Analysis of the author of last 40 chapters of Chinese masterwork The Dream of Red Mansion 
+* Nov. 2021 - Present: Design of DC Ice-melting Device for Overhead Grid Line
   > First price paper in NPU Mathematical Contest in Modeling
-  * Analyzed the author of last 40 chapters of Chinese masterwork The Dream of Red Mansion
-  * Used ‘jieba’ Chinese text segmentation to collect information in the book, including names, frequently used words and so on
-  * Applied word frequency analysis, cluster analysis and some basic idea of linguistics to get our conclusion
+* A 6-pulse container ice-melting device is adopted, with an output DC current of 1000A, DC voltage of 12kV, and capacity of 9.6 MW.
+* The ice-melting source programming includes system protection, communication with master computer etc., with the control goal of ice-melting current required by grid lines.
+* One DSP and dual FPGAs framework: In this project, DSP is the main control chip while dual FPGAs are responsible for processing AD sampling data and controlling trigger signal of thyristors respectively
 
-* 2017.07 – 2018.12: An Intelligent dialogue robot based on Tencent’s Chatting Software 
-  > Personal Project
-  * Utilized Python to implement functions of the qqbot to collect and monitor the chat messages, and designed the Q&A system based on users’ queries
-  * Employed Turing Robot’s API interface and Alibaba Cloud Server for Q&A identification, and transmission among server, robot and users, which helped more than 1800 students by using the question bank on the server updated everyday
-  * Contributed for the GitHub repository ‘qqbot’ with more than 3,400 stars by adding plug-in component
-
-* 2017.04 – 2018.04: University Information Integration System 
-  > Excellent Conclusion in the National University Student Innovation and Entrepreneurship Program
-  * Used web crawler to collect university information from different sources with Python
-  * Processed information by classifying and analyzing and presented with website and APP
-  * Collected more than 10,000 articles and 9,235 pictures from 70 publishers
-
-* 2016.08 – 2017.10: Football SimuRobot 
-  * Used C++ to design strategies for football Simu robot competition
-  * Designed new attack strategies in the front court. Improved the rate of goal by 5%
-  * Achieved two international championships and one national championship during the year
 
 <br>
 
 Skills
 ======
 * Program languages: 
-  * Proficient: C/C++, Python, Pascal
-  * Competent: Matlab, Java, R
-* Web development
-  * HTML, Javascript
-  * Django
-  * WordPress
-  * Apache, Nginx
+  * Proficient: C/C++, Python, Quartus II, Keil
+  * Competent: Matlab, Code Composer Studio (CCS), Altium Designer
+* Languages:
+  * IELTS:6.5
+  * GRE: 322 (V152 Q170) AW3.0
 * LaTeX, MarkDown
-* Git, SVN
 * Photoshop, Adobe Premiere
 
 <br>
