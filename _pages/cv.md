@@ -12,8 +12,11 @@ redirect_from:
 
 Education
 ======
-* M.E. of Electrical Engineering, Xi'an Jiaotong University,  Sept. 2020 - Present
-* B.E. of Electrical Engineering and its Automation, Jilin University,  Sept. 2016 - June 2020
+* M.E. of Electrical Engineering, Xi'an Jiaotong University,  Sept. 2020 - Present  (Average score: **90.75**/100 GPA: **3.69**/4.0 Ranking: **2**/42)
+  * Main courses: Electrical Network Theory (100), Computational Method A (92), Academic English II (93), Design of Power Electronic Equipment (Excellence), Principles and Application of DSP controller (Excellence), Skills Training for Power
+Electronic Technology (Excellence)
+* B.E. of Electrical Engineering and its Automation, Jilin University,  Sept. 2016 - June 2020  (Average score: **89.07**/100 GPA: **3.58**/4.0 Ranking: **4**/101)
+  * Main courses: Probability and Statistics B (97), Computing Method B (96), Practice: Programmable Logic System Design (94), Signal and Systems A(bilingual, 95), Power Electronics Technology (95), Continous and Discrete Control Systems (92), Microcomputer Principle and Interface Technology A(bilingual, 94), Power System Analysis (93), Test Methods and Apparatus of Electrical Engineering (97), Electrical Technology of Clean Energy Resource (97)
 * B.A. of English Literature (double bachelor’s degree), Jilin University,  Sept. 2018 - June 2020
 
 <br>
@@ -21,36 +24,30 @@ Education
 Project experience
 ======
 * Nov. 2021 - Present: Development of 22kW 800V Bidirectional On-board Charger
-  > Group research project for ENGN4528 Computer Vision - Sem 1 2019
+  > Cooperation with the company.
   *  The on-board charger (OBC) is compatible with 6.6kW for single-phase and 22kW for three-phase,requiring bidirectional power flow to meet the needs of different scenarios.
-  * In previous work, the advantages and disadvantages of different topologies were investigated and analyzed. Among them, CLLLC resonant converter is chosen as the DC-DC stage topology.
+  * In previous work, the advantages and disadvantages of different topologies were investigated and analyzed. 
   * The key point is to achieve wide voltage gain, and to reduce the DC bus capacitance in consideration of improving the overall power density and efficiency of OBC by means of active power decoupling, sinusoidal charging, etc.
 
 * Sep. 2020 - Nov. 2021: Modeling and Stability Analysis of Wireless Power Transfer (WPT) System
-  > Project
+  > The main research field in my first year's study of graduate.
   * Modeling: In previous work, various models of LCC-S type wireless power transfer system have been established, including GSSA, EDF, discrete-time modeling, and harmonic state space (HSS).
   * Stability analysis: In the discrete iterative model, the eigenroots of the Jacobian matrix at the fixed point are used to analyze the system stability. Converting the GSSA and EDF closed-loop transfer functions to the z domain, we can explore the influence of different controller parameters (Kp, Ki), delay parameters (hardware delay, controller delay), and hardware parameters (mutual inductance, load) on system stability in comparison with discrete iterative model. In HSS model, the system stability can be analyzed by eigenvalues. In addition, the oscillation frequency can be predicted when the WPT system is unstable.
   * Periodic energy control (PEC): The periodic energy control takes the energy input to the resonant network in each period as the control target, which has the advantages of fast dynamic response and suppression of system overshoot.
 
 * Nov. 2021 - Present: Design of DC Ice-melting Device for Overhead Grid Line
-  > First price paper in NPU Mathematical Contest in Modeling
-* A 6-pulse container ice-melting device is adopted, with an output DC current of 1000A, DC voltage of 12kV, and capacity of 9.6 MW.
-* The ice-melting source programming includes system protection, communication with master computer etc., with the control goal of ice-melting current required by grid lines.
-* One DSP and dual FPGAs framework: In this project, DSP is the main control chip while dual FPGAs are responsible for processing AD sampling data and controlling trigger signal of thyristors respectively
+  * A 6-pulse container ice-melting device is adopted, with an output DC current of 1000A, DC voltage of 12kV, and capacity of 9.6 MW.
+  * The ice-melting source programming includes system protection, communication with master computer etc., with the control goal of ice-melting current required by grid lines.
+  * One DSP and dual FPGAs framework: In this project, DSP is the main control chip while dual FPGAs are responsible for processing AD sampling data and controlling trigger signal of thyristors respectively
 
 
 <br>
 
-Skills
+Research Publications
 ======
-* Program languages: 
-  * Proficient: C/C++, Python, Quartus II, Keil
-  * Competent: Matlab, Code Composer Studio (CCS), Altium Designer
-* Languages:
-  * IELTS:6.5
-  * GRE: 322 (V152 Q170) AW3.0
-* LaTeX, MarkDown
-* Photoshop, Adobe Premiere
+* T. Ma, Y. Wang, X. Hu, D. Zhao, Y. Jiang and C. Jiang, ”Periodic Energy Control for Wireless Power Transfer System,” in IEEE Transactions on Power Electronics, vol. 37, no. 4, pp. 3775-3780, April 2022, [doi: 10.1109/TPEL.2021.3129501](https://ieeexplore.ieee.org/document/9623422).
+* Hu Xiufang, Wang Yue, Lv Shuangqing, Zhao Delin, Ma Tianlu. Modeling and Stability Analysis of Wireless Power Transfer System Based on Harmonic State Space [J/OL]. [Automation of Electric Power Systems: 1-17, 2022.3](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2022&filename=DLXT202211014&uniplatform=NZKPT&v=JjENo4CVsXCUkQ54HlCHxI4ZgRtMZAVD6ut1LtnkQl-IM3IEzGAvvugMBzotnrx1).
+* Hu Xiufang, Wang Yue, Lv Shuangqing, Zhao Delin, Ma Tianlu. Modeling and stability analysis of LCC-S wireless power transfer system based on activation function [J/OL]. [Transactions of China Electrotechnical Society: 1-11, 2022.3](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CAPJ&dbname=CAPJLAST&filename=DGJS20220302005&uniplatform=NZKPT&v=DGsAAIqa5NH2QT6pcFDQ4gIJwVPWTyLywxJcfxGHrJClhoFtcWjrt8pTUOBeW2-u).
 
 <br>
 
@@ -70,6 +67,22 @@ Honors and awards
 | Jilin University **Xinwang First Prize Scholarship** (only 3 people in the whole school) (Ranking:1/101) | Dec. 2018 |
 |  **National Encouragement scholarship** during the academic year of 2017-2018 | Nov. 2018 |
 |  Jilin University **Excellent Student** during the academic year of 2017-2018 (Ranking:3/101) | Nov. 2018 |
+|  Jilin University **Academic Achievement Scholarship** for Disciplinary Competition (**3 times**) | May 2018- Nov. 2018 |
+
+
+<br>
+
+Skills
+======
+* Program languages: 
+  * Proficient: C/C++, Python, Quartus II, Keil
+  * Competent: Matlab, Code Composer Studio (CCS), Altium Designer
+* Languages:
+  * IELTS:6.5
+  * GRE: 322 (V152 Q170) AW3.0
+* LaTeX, MarkDown
+* Photoshop, Adobe Premiere
+
 
 <br>
 
