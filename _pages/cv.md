@@ -13,15 +13,12 @@ redirect_from:
 Education
 ======
 * M.E. of Electrical Engineering, Xi'an Jiaotong University,  Sept. 2020 - Present  (Average score: **90.75**/100 GPA: **3.69**/4.0 Ranking: **2**/42)
-  * Main courses: Electrical Network Theory (100), Computational Method A (92), Academic English II (93), Design of Power Electronic Equipment (Excellence), Principles and Application of DSP controller (Excellence), Skills Training for Power
-Electronic Technology (Excellence)
 * B.E. of Electrical Engineering and its Automation, Jilin University,  Sept. 2016 - June 2020  (Average score: **89.07**/100 GPA: **3.58**/4.0 Ranking: **4**/101)
-  * Main courses: Probability and Statistics B (97), Computing Method B (96), Practice: Programmable Logic System Design (94), Signal and Systems A(bilingual, 95), Power Electronics Technology (95), Continous and Discrete Control Systems (92), Microcomputer Principle and Interface Technology A(bilingual, 94), Power System Analysis (93), Test Methods and Apparatus of Electrical Engineering (97), Electrical Technology of Clean Energy Resource (97)
 * B.A. of English Literature (double bachelor’s degree), Jilin University,  Sept. 2018 - June 2020
 
 <br>
 
-Project experience
+Project Experience
 ======
 * Nov. 2021 - Present: Development of 22kW 800V Bidirectional On-board Charger
   > Cooperation with the company.
@@ -51,7 +48,7 @@ Research Publications
 
 <br>
 
-Honors and awards
+Honors and Awards
 ======
 
 | Name | Time |
@@ -68,6 +65,17 @@ Honors and awards
 |  **National Encouragement scholarship** during the academic year of 2017-2018 | Nov. 2018 |
 |  Jilin University **Excellent Student** during the academic year of 2017-2018 (Ranking:3/101) | Nov. 2018 |
 |  Jilin University **Academic Achievement Scholarship** for Disciplinary Competition (**3 times**) | May 2018- Nov. 2018 |
+
+<br>
+
+Competition Experiences
+======
+| Name | Prize | Time |
+| ------ | ------ | ------ |
+|  National Undergraduate Electronic Design Contest in Jilin Division | Second Prize | Dec. 2019 |
+|  Jilin Province Undergraduate Electronic Design Competition | **First Prize** | Oct. 2018 |
+|  National Robot Competition | Second Prize | Aug. 2018 |
+|  3rd Jilin Province Robot Competition | **First Prize** | Sep. 2018 |
 
 
 <br>
