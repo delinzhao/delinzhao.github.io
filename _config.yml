@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Delin Zhao"
 title_separator          : "-"
 name                     : &name "Delin Zhao"
-description              : &description "MPhil in Computer and Information Engineering in CUHK(SZ)"
+description              : &description "Master in Electrical Engineering in Xi'an Jiaotong University"
 # url                      : http://djinguo.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 url                      : https://delinzhao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 
@@ -82,14 +82,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jinguo Dong"
-  avatar           : "profile.jpg"
-  bio              : "MPhil in Computer and Information Engineering in CUHK(SZ)"
-  location         : "Shenzhen, China"
+  name             : "Delin Zhao"
+  avatar           : "profile.png"
+  bio              : "Master in Electrical Engineering in Xi'an Jiaotong University"
+  location         : "Xi'an, China"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "dong.jinguo@outlook.com"
+  email            : "zhaodl3120@stu.xjtu.edu.cn"
   blog             : "blog.djinguo.com" 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -99,7 +99,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "femj007"
+  github           : "delinzhao"
   google_plus      :
   keybase          :
   instagram        :
