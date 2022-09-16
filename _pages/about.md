@@ -11,9 +11,6 @@ redirect_from:
 * Hello, I’m Zhao Delin!
 <br>
 * I am a graduate student at the Xi'an Jiaotong University, Xi'an, majoring in Electrical Engineering. Currently, I am doing research about the on-board charger supervised by [Prof. Yue Wang](https://gr.xjtu.edu.cn/zh/web/yuewang/1) in the [SKLEI Lab](http://sklei.xjtu.edu.cn/en/).
-[comment]: <> I am also looking for SDE intern opportunities in Çhina.
-[comment]: <>  <br>
-[comment]: <>  * I was a CS master student at the University of Southern California (USC). Sadly, I [comment]: <>  didn't obtain my degree because of [P.P. 10043](https://www.10043.org/).
 <br>
 * Before that, I was a undergraduate of Jilin University (JLU). I have been awarded the degree of B.E. of Electrical Engineering and its Automation with First Class Honours from JLU and the second degree of B.A. of English Literature from JLU in June 2020. 
 <br>
@@ -23,5 +20,5 @@ redirect_from:
 <br>
 * To learn more about me, you can have a view of my CV page [here](/cv), or download my resume here: [English version](/files/resume_en.pdf) or [Chinese version](/files/resume_cn.pdf).
 <br>
-[comment]: <>  * I like writing blogs to summarize the knowledge or record my interesting experiments. I [comment]: <> like sharing and discussing things with others. Visit my Chinese blog [here](https://blog.[comment]: <> djinguo.com)!
+
 
