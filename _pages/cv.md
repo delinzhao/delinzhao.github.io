@@ -59,16 +59,17 @@ Honors and awards
 
 | Name | Time |
 | ------ | ------ |
-| Northwestern Polytechnical University “Outstanding Student”, First Class Scholarship | 2018.11 |
-| Silver medal in South Pacific Central Division of the International Collegiate Programming Contest (ICPC) | 2018.10 |
-| First price in NPU Mathematical Contest in Modeling | 2018.05 | 
-| Honorable Mention Delegation in National Model United Nations, New York | 2018.03 |
-| Second prize in Shaanxi division in China Undergraduate Mathematical Contest in Modeling | 2017.09 |
-| 1st Place in SimuroSot Middle League at 22st FIRA RoboWorld Cup 2017, Taiwan, China | 2017.08 |
-| 1st Place in SimuroSot Middle League at China Robot Competition 2017 | 2017.08 |
-| First price in NPU C-Language Programming Contest | 2017.05 |
-| 1st Place in SimuroSot Middle League at 21st FIRA RoboWorld Cup 2016, Beijing, China | 2016.12 |
-| First price in National Olympiad in Informatics in Provinces, China | 2015.11 |
+| Xi’an Jiaotong University **Excellent Postgraduate Cadre** during the academic year of 2020-2021 | Dec. 2021 |
+| **Excellent Postgraduate** of power electronics and renewable energy center(XJTU) during the year of 2021 | Nov. 2021 |
+| **Special Scholarship** of Xi’an Jiaotong University during the academic year of 2020-2021 | Nov. 2021 | 
+| **Delta Scholarship** during the year of 2021 (only **6 people** in the whole school) | Nov. 2021 |
+| Jilin University **Excellent Graduation Thesis (Design)** | June 2020 |
+| Jilin University **Graduate Scholarship** | June 2020 |
+| **National Encouragement scholarship** during the academic year of 2018-2019 | Nov. 2019 |
+| Jilin University **Excellent Student** during the academic year of 2018-2019 (Ranking:3/101) | Nov. 2019 |
+| Jilin University **Xinwang First Prize Scholarship** (only 3 people in the whole school) (Ranking:1/101) | Dec. 2018 |
+|  **National Encouragement scholarship** during the academic year of 2017-2018 | Nov. 2018 |
+|  Jilin University **Excellent Student** during the academic year of 2017-2018 (Ranking:3/101) | Nov. 2018 |
 
 <br>
 
