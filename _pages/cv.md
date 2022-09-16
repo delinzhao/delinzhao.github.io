@@ -64,7 +64,7 @@ Honors and Awards
 | Jilin University **Xinwang First Prize Scholarship** (only 3 people in the whole school) (Ranking:1/101) | Dec. 2018 |
 |  **National Encouragement scholarship** during the academic year of 2017-2018 | Nov. 2018 |
 |  Jilin University **Excellent Student** during the academic year of 2017-2018 (Ranking:3/101) | Nov. 2018 |
-|  Jilin University **Academic Achievement Scholarship** for Disciplinary Competition (**3 times**) | May 2018- Nov. 2018 |
+|  Jilin University **Academic Achievement Scholarship** for Disciplinary Competition (**3 times**) | May 2018 |
 
 <br>
 
