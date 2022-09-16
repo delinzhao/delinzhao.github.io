@@ -7,11 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jinguo Dong"
+title                    : "Delin Zhao"
 title_separator          : "-"
-name                     : &name "Jinguo Dong"
+name                     : &name "Delin Zhao"
 description              : &description "MPhil in Computer and Information Engineering in CUHK(SZ)"
-url                      : http://djinguo.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+# url                      : http://djinguo.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://delinzhao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "" #"academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
