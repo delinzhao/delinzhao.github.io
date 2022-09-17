@@ -10,7 +10,7 @@ redirect_from:
 
 * Hello, I’m Zhao Delin!
 <br>
-* I am a graduate student at the [Xi'an Jiaotong University](http://en.xjtu.edu.cn/), Xi'an, majoring in Electrical Engineering. Currently, I am doing research about the on-board charger supervised by [Prof. Yue Wang](https://gr.xjtu.edu.cn/zh/web/yuewang/1) in the [SKLEI Lab](http://sklei.xjtu.edu.cn/en/).
+* I am a graduate student at the [Xi'an Jiaotong University](http://en.xjtu.edu.cn/), Xi'an, majoring in Electrical Engineering. Currently, I am doing research about the on-board charger supervised by [Prof. Yue Wang](https://ieeexplore.ieee.org/author/37281447000) in the [SKLEI Lab](http://sklei.xjtu.edu.cn/en/).
 <br>
 * Before that, I was a undergraduate of [Jilin University](http://global.jlu.edu.cn/) (JLU). I have been awarded the degree of B.E. of Electrical Engineering and its Automation with First Class Honours from JLU and the second degree of B.A. of English Literature from JLU in June 2020. 
 <br>
