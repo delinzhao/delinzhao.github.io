@@ -12,9 +12,9 @@ redirect_from:
 
 Education
 ======
-* M.E. of Electrical Engineering, <br /> Xi'an Jiaotong University,   Sept. 2020 - Present  
+* M.E. of Electrical Engineering,  [Xi'an Jiaotong University](http://en.xjtu.edu.cn/),   Sept. 2020 - Present  
   * (Average score: **90.75**/100  GPA: **3.69**/4.0  Ranking: **2**/42)
-* B.E. of Electrical Engineering and its Automation,  Jilin University,  Sept. 2016 - June 2020  
+* B.E. of Electrical Engineering and its Automation,  [Jilin University](http://global.jlu.edu.cn/),  Sept. 2016 - June 2020  
   * (Average score: **89.07**/100  GPA: **3.58**/4.0  Ranking: **4**/101)
 * B.A. of English Literature (double bachelor’s degree), Jilin University,  Sept. 2018 - June 2020
 
