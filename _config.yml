@@ -90,7 +90,7 @@ author:
   pubmed           : 
   googlescholar    : 
   email            : "zhaodl3120@stu.xjtu.edu.cn"
-  blog             : "blog.djinguo.com" 
+  blog             : # "blog.djinguo.com" 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -99,7 +99,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "delinzhao"
+  github           : # "delinzhao"
   google_plus      :
   keybase          :
   instagram        :
