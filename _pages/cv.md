@@ -56,7 +56,7 @@ Honors and Awards
 | Name | Time |
 | ------ | ------ |
 | Xi’an Jiaotong University **Excellent Postgraduate Cadre** during the academic year of 2020-2021 | Dec. 2021 |
-| **Excellent Postgraduate** of power electronics and renewable energy center(XJTU) during the year of 2021 | Nov. 2021 |
+| **Excellent Postgraduate** of power electronics and renewable energy center(PEREC) during the year of 2021 | Nov. 2021 |
 | **Special Scholarship** of Xi’an Jiaotong University during the academic year of 2020-2021 | Nov. 2021 | 
 | **Delta Scholarship** during the year of 2021 (only **6 people** in the whole school) | Nov. 2021 |
 | Jilin University **Excellent Graduation Thesis (Design)** | June 2020 |
