@@ -47,6 +47,7 @@ Research Publications
 * T. Ma, Y. Wang, X. Hu, D. Zhao, Y. Jiang and C. Jiang, ”Periodic Energy Control for Wireless Power Transfer System,” in IEEE Transactions on Power Electronics, vol. 37, no. 4, pp. 3775-3780, April 2022, [doi: 10.1109/TPEL.2021.3129501](https://ieeexplore.ieee.org/document/9623422).
 * Hu Xiufang, Wang Yue, Lv Shuangqing, Zhao Delin, Ma Tianlu. Modeling and Stability Analysis of Wireless Power Transfer System Based on Harmonic State Space [J/OL]. [Automation of Electric Power Systems: 1-17, 2022.3](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2022&filename=DLXT202211014&uniplatform=NZKPT&v=JjENo4CVsXCUkQ54HlCHxI4ZgRtMZAVD6ut1LtnkQl-IM3IEzGAvvugMBzotnrx1)[doi: 10.7500/AEPS20210724005].
 * Hu Xiufang, Wang Yue, Lv Shuangqing, Zhao Delin, Ma Tianlu. Modeling and stability analysis of LCC-S wireless power transfer system based on activation function [J/OL]. [Transactions of China Electrotechnical Society: 1-11, 2022.3](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CAPJ&dbname=CAPJLAST&filename=DGJS20220302005&uniplatform=NZKPT&v=DGsAAIqa5NH2QT6pcFDQ4gIJwVPWTyLywxJcfxGHrJClhoFtcWjrt8pTUOBeW2-u).
+* Wang Yue, Ma Tianlu, Hu Xiufang, Lin Zijie, Zhao Delin. [A Periodic Energy Control Method for Wireless Power Transmission System](https://oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=SCPD&dbname=SCPD202103&filename=CN113517763A&uniplatform=OVERSEA&v=n_qfpsHOjDvYeAlz-eGQk-IvC9U80iUDWIrC-pE74Q0pgvCkgMQNl2zjU7JqRl_B) [P]. Shaanxi Province: CN113517763A, 2021-10-19.
 
 <br>
 
