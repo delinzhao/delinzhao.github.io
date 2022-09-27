@@ -18,7 +18,7 @@ redirect_from:
 <br>
 * I became interested in electronics when I was a junior middle school student. I enjoy contriving new ideas and accomplish them by experiments! I am proficient in Matlab, Altium Designer, Code Composer Studio (CCS), Quartus II, Keil and other science softwares. As for my English, I had the IELTS test (**Overall:6.5** R:7.0 L:6.5 S:5.5 W:6.0) and GRE test (**Overall:322** V:152 Q:170 AW:3.0).
 <br>
-* My research interest is in the modeling and control of Wireless Power Transfer(WPT) and On-board Charger(OBC). 
+* My research interest is in the modeling and control of Wireless Power Transfer (WPT) and On-board Charger (OBC). 
 <br>
 * To learn more about me, you can have a view of my CV page [here](/cv), or download my resume here: [English version](/files/DelinCV_en.pdf) or [Chinese version](/files/DelinCV_cn.pdf).
 <br>

@@ -87,11 +87,11 @@ Competition Experiences
 Skills
 ======
 * Program languages: 
-  * Matlab, Code Composer Studio (CCS), Altium Designer, Quartus II, Keil, Simetrix/Simplis and other
+  * Matlab, Code Composer Studio (CCS), Altium Designer, Quartus II, Keil, Simetrix/Simplis, PSIM, and other
 science softwares
 * Languages:
-  * IELTS:6.5
-  * GRE: 322 (V152 Q170) AW3.0
+  * IELTS: 6.5
+  * GRE: 322 (V:152 Q:170 AW:3.0)
 * Others:
   * LaTeX, MarkDown
   * Photoshop, Adobe Premiere
@@ -99,7 +99,7 @@ science softwares
 
 <br>
 
-Download my resume here: [English version](/files/DelinCV_en.pdf) or [Chinese version](/files/DelinCV_cn.pdf)
+To learn more about me, please download my resume here: [English version](/files/DelinCV_en.pdf) or [Chinese version](/files/DelinCV_cn.pdf)
 
 <!-- Skills
 ======
