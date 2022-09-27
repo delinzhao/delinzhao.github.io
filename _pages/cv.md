@@ -23,21 +23,21 @@ Education
 Project Experience
 ======
 * Nov. 2021 - Present: Development of 22kW 800V Bidirectional On-board Charger
-  > Cooperation with the company.
-  *  The on-board charger (OBC) is compatible with 6.6kW for single-phase and 22kW for three-phase,requiring bidirectional power flow to meet the needs of different scenarios.
+  > University-industry collaboration project with [United Automotive Electronic Systems](https://www.bosch.com.cn/en/our-company/bosch-in-china/united-automotive-electronic-systems/) Co., Ltd. (UAES, Shanghai).
+  *  The on-board charger (OBC) is **compatible with 6.6kW for single-phase and 22kW for three-phase**, requiring bidirectional power flow to meet the needs of different scenarios.
   * In previous work, the advantages and disadvantages of different topologies were investigated and analyzed. 
-  * The key point is to achieve wide voltage gain, and to reduce the DC bus capacitance in consideration of improving the overall power density and efficiency of OBC by means of active power decoupling, sinusoidal charging, etc.
+  * The key point is to achieve **wide voltage gain**, and to reduce the DC bus capacitance in consideration of improving the overall power density and efficiency of OBC by means of active power decoupling, sinusoidal charging, etc. Besides, the bidirectional functions such as **V2L and V2G** are also required.
 
 * Sep. 2020 - Nov. 2021: Modeling and Stability Analysis of Wireless Power Transfer (WPT) System
-  > The main research field in my first year's study of graduate.
-  * Modeling: In previous work, various models of LCC-S type wireless power transfer system have been established, including GSSA, EDF, discrete-time modeling, and harmonic state space (HSS).
-  * Stability analysis: In the discrete iterative model, the eigenroots of the Jacobian matrix at the fixed point are used to analyze the system stability. Converting the GSSA and EDF closed-loop transfer functions to the z domain, we can explore the influence of different controller parameters (Kp, Ki), delay parameters (hardware delay, controller delay), and hardware parameters (mutual inductance, load) on system stability in comparison with discrete iterative model. In HSS model, the system stability can be analyzed by eigenvalues. In addition, the oscillation frequency can be predicted when the WPT system is unstable.
-  * Periodic energy control (PEC): The periodic energy control takes the energy input to the resonant network in each period as the control target, which has the advantages of fast dynamic response and suppression of system overshoot.
+  > The main research field in my first year's study of graduate school.
+  * **Modeling**: In previous work, various models of LCC-S type wireless power transfer system have been established, including GSSA, EDF, discrete-time modeling, and harmonic state space (HSS).
+  * **Stability analysis**: In the discrete iterative model, the eigenroots of the Jacobian matrix at the fixed point are used to analyze the system stability. Converting the GSSA and EDF closed-loop transfer functions to the z domain, we can explore the influence of different controller parameters (Kp, Ki), delay parameters (hardware delay, controller delay), and hardware parameters (mutual inductance, load) on system stability in comparison with discrete iterative model. In HSS model, the system stability can be analyzed by eigenvalues. In addition, the oscillation frequency can be predicted when the WPT system is unstable.
+  * **Periodic energy control (PEC)**: The periodic energy control takes the energy input to the resonant network in each period as the control target, which has the advantages of fast dynamic response and suppression of system overshoot.
 
 * Nov. 2021 - Present: Design of DC Ice-melting Device for Overhead Grid Line
   * A 6-pulse container ice-melting device is adopted, with an output DC current of 1000A, DC voltage of 12kV, and capacity of 9.6 MW.
   * The ice-melting source programming includes system protection, communication with master computer etc., with the control goal of ice-melting current required by grid lines.
-  * One DSP and dual FPGAs framework: In this project, DSP is the main control chip while dual FPGAs are responsible for processing AD sampling data and controlling trigger signal of thyristors respectively
+  * **One DSP and dual FPGAs framework**: In this project, DSP is the main control chip while dual FPGAs are responsible for processing AD sampling data and controlling trigger signal of thyristors respectively
 
 
 <br>
@@ -86,18 +86,19 @@ Competition Experiences
 Skills
 ======
 * Program languages: 
-  * Proficient: C/C++, Python, Quartus II, Keil
-  * Competent: Matlab, Code Composer Studio (CCS), Altium Designer
+  * Matlab, Code Composer Studio (CCS), Altium Designer, Quartus II, Keil, Simetrix/Simplis and other
+science softwares
 * Languages:
   * IELTS:6.5
   * GRE: 322 (V152 Q170) AW3.0
-* LaTeX, MarkDown
-* Photoshop, Adobe Premiere
+* Others:
+  * LaTeX, MarkDown
+  * Photoshop, Adobe Premiere
 
 
 <br>
 
-Download my resume here: [English version](/files/resume_en.pdf) or [Chinese version](/files/resume_cn.pdf)
+Download my resume here: [English version](/files/DelinCV_en.pdf) or [Chinese version](/files/DelinCV_cn.pdf)
 
 <!-- Skills
 ======
