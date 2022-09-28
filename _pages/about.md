@@ -8,6 +8,17 @@ redirect_from:
   - /about.html
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-JG1JDW7152"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-JG1JDW7152');
+</script>
+
+
 * Hello, I’m Zhao Delin!
 <br>
 *  I am pursuing a Master of Electrical and Electronic Engineering (On-board Charger and Wireless Power Transfer) degree at [Xi'an Jiaotong University](http://en.xjtu.edu.cn/)(XJTU), Xi'an. Currently, I am doing research about the on-board charger applied to electrical vehicles and supervised by [Prof. Yue Wang](https://ieeexplore.ieee.org/author/37281447000) in the [SKLEI Lab](http://sklei.xjtu.edu.cn). In order to hone my research skills and integrate the learned knowledge into practice, I have been participating in the university-industry collaboration project "**Development of 22kW 800V Bidirectional On-board Charger**" since November, 2021. This project is collaborated with [United Automotive Electronic Systems](https://www.bosch.com.cn/en/our-company/bosch-in-china/united-automotive-electronic-systems/) Co., Ltd. (UAES, Shanghai). 
