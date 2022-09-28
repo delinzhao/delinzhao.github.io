@@ -74,8 +74,8 @@ social:
 
 
 # Analytics
-analytics: true
-  provider               : google-universal     # "google-universal" # false (default), "google", "google-universal", "custom"
+analytics: 
+  provider               : google     # "google-universal" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          : G-PRNEELW24X
 
