@@ -51,6 +51,19 @@ Research Publications
 
 <br>
 
+Skills
+======
+* Program languages: 
+  * Matlab, Code Composer Studio (CCS), Altium Designer, Quartus II, Keil, Simetrix/Simplis, PSIM, and other science softwares
+* Languages:
+  * IELTS: 6.5
+  * GRE: 322 (V:152 Q:170 AW:3.0)
+* Others:
+  * LaTeX, MarkDown
+  * Photoshop, Adobe Premiere
+
+<br>
+
 Honors and Awards
 ======
 
@@ -81,25 +94,10 @@ Competition Experiences
 |  National Robot Competition | Second Prize | Aug. 2018 |
 |  3rd Jilin Province Robot Competition | **First Prize** | Sep. 2018 |
 
-
 <br>
 
-Skills
-======
-* Program languages: 
-  * Matlab, Code Composer Studio (CCS), Altium Designer, Quartus II, Keil, Simetrix/Simplis, PSIM, and other
-science softwares
-* Languages:
-  * IELTS: 6.5
-  * GRE: 322 (V:152 Q:170 AW:3.0)
-* Others:
-  * LaTeX, MarkDown
-  * Photoshop, Adobe Premiere
 
-
-<br>
-
-To learn more about me, please download my resume here: [English version](/files/DelinCV_en.pdf) or [Chinese version](/files/DelinCV_cn.pdf)
+To learn more about me, please download my resume here: [English version](/files/DelinCV_en.pdf) or [Chinese version](/files/DelinCV_cn.pdf).
 
 <!-- Skills
 ======
