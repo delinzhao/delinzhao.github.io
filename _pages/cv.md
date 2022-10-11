@@ -69,6 +69,8 @@ Honors and Awards
 
 | Name | Time |
 | ------ | ------ |
+| Xi’an Jiaotong University **Excellent Postgraduate** during the academic year of 2021-2022 | Oct. 2022 |
+| **Special Scholarship** of Xi’an Jiaotong University during the academic year of 2021-2022 | Oct. 2022 | 
 | Xi’an Jiaotong University **Excellent Postgraduate Cadre** during the academic year of 2020-2021 | Dec. 2021 |
 | **Excellent Postgraduate** of power electronics and renewable energy center (PEREC) during the year of 2021 | Nov. 2021 |
 | **Special Scholarship** of Xi’an Jiaotong University during the academic year of 2020-2021 | Nov. 2021 | 
