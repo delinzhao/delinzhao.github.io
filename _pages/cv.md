@@ -63,6 +63,7 @@ Skills
   * Photoshop, Adobe Premiere
 
 <br>
+
 Honors and Awards
 ======
 
