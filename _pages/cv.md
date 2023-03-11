@@ -57,7 +57,7 @@ Skills
   * Matlab, Code Composer Studio (CCS), Altium Designer, Quartus II, Keil, Simetrix/Simplis, PSIM, and other science softwares
 * Languages:
   * IELTS: 6.5
-  * GRE: 322 (V:152 Q:170 AW:3.0)
+  * GRE: 322 (V:155 Q:170 AW:3.0)
 * Others:
   * LaTeX, MarkDown
   * Photoshop, Adobe Premiere
