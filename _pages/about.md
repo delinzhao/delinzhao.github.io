@@ -17,7 +17,7 @@ redirect_from:
 <br>
 * Before that, I was an undergraduate of [Jilin University](http://global.jlu.edu.cn/) (JLU). I have been awarded the degree of *B.E. of Electrical Engineering and its Automation* with First Class Honours from JLU and the second degree of *B.A. of English Literature* from JLU in June 2020. Specifically, my undergraduate GPA is 3.58 out of 4 **(89.07/100, ranking: 4/101)**, my graduate GPA is 3.69 **(90.75/100, ranking: 2/42)**, and I rank second in my major, which reflects my learning ability and research foundation.
 <br>
-* I became interested in electronics when I was a junior middle school student. I enjoy contriving new ideas and accomplish them by experiments! I am proficient in Matlab, Altium Designer, Code Composer Studio (CCS), Quartus II, Keil and other science softwares. As for my English, I had the IELTS test (**Overall:6.5** R:7.0 L:6.5 S:5.5 W:6.0) and GRE test (**Overall:322** V:152 Q:170 AW:3.0).
+* I became interested in electronics when I was a junior middle school student. I enjoy contriving new ideas and accomplish them by experiments! I am proficient in Matlab, Altium Designer, Code Composer Studio (CCS), Quartus II, Keil and other science softwares. As for my English, I had the IELTS test (**Overall:6.5** R:7.0 L:6.5 S:5.5 W:6.0) and GRE test (**Overall:325** V:155 Q:170 AW:3.0).
 <br>
 * My research interest is in the modeling and control of Wireless Power Transfer (WPT) and On-board Charger (OBC). 
 <br>
