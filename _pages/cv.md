@@ -108,8 +108,8 @@ To learn more about me, please download my resume here: [English version](/files
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3 -->
-<!-- 
+* Skill 3 
+
 Publications
 ======
   <ul>{% for post in site.publications %}
