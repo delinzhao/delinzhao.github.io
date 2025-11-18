@@ -101,7 +101,8 @@ Competition Experiences
 
 To learn more about me, please download my resume here: [English version](/files/DelinCV_en.pdf) or [Chinese version](/files/DelinCV_cn.pdf).
 
-<!-- Skills
+{% comment %}
+Skills
 ======
 * Skill 1
 * Skill 2
@@ -130,4 +131,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams -->
+* Currently signed in to 43 different slack teams
+{% endcomment %}
